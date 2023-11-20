@@ -1,1 +1,1 @@
-print('hi23')
+print(1)
